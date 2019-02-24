@@ -1,0 +1,16 @@
+{
+  "name": "melhorcambiomonitor",
+  "version": "1.0.0",
+  "description": "Node.js application designed for monitoring BRL/EUR rate using melhorcambio API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas",
+  "repository": "github:jonas1307/MelhorCambioMonitor",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.6.0",
+    "node-cron": "^2.0.3"
+  }
+}
